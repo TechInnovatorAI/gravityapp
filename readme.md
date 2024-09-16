@@ -5,8 +5,6 @@ This is a free boilerplate based on the [Gravity web boilerplate](https://usegra
 Use it to build a full-stack web application using React, Tailwind, 
 Node.js and Express.
 
-This readme will cover what's included; what's not included; 
-and how to install and use the boilerplate.
 
 ## Introduction
 
